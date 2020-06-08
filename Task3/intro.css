@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    background-color: rgb(250, 244, 244);
+    font-family: sans-serif;
+}
+.container{
+    width: 60%;
+     background-color: rgb(250, 244, 244);
+     padding: 15px;
+}
+.left_side{
+    height: 350px;
+    border-right: 0.5px solid  rgb(219, 216, 216) ;
+}
+.right_side{
+    height: 350px;
+}
+hr{
+    margin-top: 3%;
+    margin-bottom: 0px;
+    border: 0.5px solid  rgb(219, 216, 216) ;
+}
+.first{
+    height: 250px;
+    border-right: 2px solid  rgb(219, 216, 216) ;
+}
+.second{
+    height: 250px;
+    border-right: 2px solid rgb(219, 216, 216);
+}
+.third{
+    height: 250px;
+}
+.left_side img , .right_side img{
+    width: 100%;
+    height: 60%;
+}
+ .first img , .second img, .third img{
+    width: 100%;
+    height: 55%;
+
+}
+
+.left_side h5{
+    color: red;
+}
+.right_side h5{
+    color: purple;
+}
+.p{
+    font-size: 13px;
+}
+p{
+    font-size: 15px;
+}
+.third p{
+    font-weight:normal;
+}
+.first h6{
+    color: purple;
+}
+.second h6{
+     color: saddlebrown;
+}
+.third h6{
+    color: rgb(20, 187, 187);
+}
+
